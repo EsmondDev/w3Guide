@@ -1,1 +1,1 @@
-DevOps - Guide application.
+DevOps - Guide Application.
